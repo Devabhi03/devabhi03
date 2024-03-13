@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![1](https://github.com/Devabhi03/devabhi03/assets/111748301/4284fe0b-5035-43b9-a45a-ea757e965f31)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Devabhi03/Devabhi03/output/snake.svg" alt="Snake animation" />
