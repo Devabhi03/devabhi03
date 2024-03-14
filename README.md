@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Devabhi03/Devabhi03/output/snake.svg" alt="Snake animation" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devabhi03&layout=compact&hide=html&theme=dark" alt="Devabhi03" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devabhi03&show_icons=true&locale=en&theme=dark" alt="Devabhi03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devabhi03&theme=dark" alt="Devabhi03" /></p>
+###
